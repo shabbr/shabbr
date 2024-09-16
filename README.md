@@ -4,7 +4,7 @@
 
 ## 👀 About Me
 - 💻 **Laravel Developer** with **2 years of experience**, specializing in **API development** and working with **multiple Laravel libraries**.
-- 🛠️ Currently working as a full-time **Laravel Developer** at **Inallomate Solutions**.
+- 🛠️ Currently working as a full-time **Laravel Developer** at **Allomate Solutions**.
 - 🌱 Expanding my knowledge in frontend technologies to become a full-stack developer.
 - 🚀 Enthusiastic about creating **clean, efficient**, and **scalable** solutions using Laravel.
 - 🎯 Always seeking new challenges and opportunities for growth.
