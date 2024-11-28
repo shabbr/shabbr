@@ -8,7 +8,6 @@
 - 🌱 Expanding my knowledge in frontend technologies to become a full-stack developer.
 - 🚀 Enthusiastic about creating **clean, efficient**, and **scalable** solutions using Laravel.
 - 🎯 Always seeking new challenges and opportunities for growth.
-- 😄 Pronouns: **[Your Pronouns]**
 
 ## 🔧 Technologies & Tools I Work With
 ### Backend
