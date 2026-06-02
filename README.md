@@ -1,51 +1,268 @@
-# 👋 Hi, I’m @shabbr
+# Hi, I'm Shabbar Abbas 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=shabbr&color=blue) ![Followers](https://img.shields.io/github/followers/shabbr?style=social)
+### Full-Stack Software Engineer | Laravel Specialist | SaaS Builder | Founder of IconMarvel
 
-## 👀 About Me
-- 💻 **Laravel Developer** with **2.5 years of experience**, specializing in **API development** and working with **multiple Laravel libraries**.
-- 🛠️ Currently working as a full-time **Laravel Developer** at **Inallomate Solutions**.
-- 🌱 Expanding my knowledge in frontend technologies to become a full-stack developer.
-- 🚀 Enthusiastic about creating **clean, efficient**, and **scalable** solutions using Laravel.
-- 🎯 Always seeking new challenges and opportunities for growth.
+<p>
+Building secure, scalable, and high-performance web applications using Laravel, Vue.js, Nuxt, PostgreSQL, MySQL, Docker, Linux, and modern cloud infrastructure.
+</p>
 
-## 🔧 Technologies & Tools I Work With
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=shabbr\&color=blue)
+![Followers](https://img.shields.io/github/followers/shabbr?style=social)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-### Tools & Platforms
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 🚀 About Me
 
+I'm a Full-Stack Software Engineer with 3+ years of professional experience building enterprise applications, SaaS platforms, APIs, admin panels, developer tools, and business automation systems.
 
+My expertise covers the complete software lifecycle:
 
-## 💞️ Collaboration
-- 🤝 Open to **collaborating on Laravel projects** and **API development**.
-- 🛠️ Excited about contributing to **open-source** Laravel projects.
+* System Architecture
+* Backend Development
+* Frontend Development
+* Database Design
+* API Development
+* Security Implementation
+* VPS Deployment
+* Docker Infrastructure
+* Performance Optimization
+* Cloudflare Configuration
+* Production Monitoring
+* Scaling Web Applications
 
-## 📫 Contact Me
-Feel free to connect with me if you'd like to collaborate or just chat!
-- **Email**: [ashabbar439@gmail.com](mailto:ashabbar439@gmail.com)
-- **LinkedIn**: [Shabbar Abbas](https://www.linkedin.com/in/shabbar-abbas-669689214?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Twitter**: [your-twitter-handle](https://twitter.com/your-twitter-handle)
+I enjoy solving complex technical challenges and creating systems that are secure, maintainable, scalable, and built for long-term growth.
 
-## 📊 GitHub Stats
+---
 
-![Shabbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=shabbr&show_icons=true&theme=radical)
+## 🌟 Founder of IconMarvel
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shabbr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm the founder of IconMarvel, a modern SVG icon platform built for developers, designers, startups, and product teams.
 
+### IconMarvel Ecosystem
 
+* SVG Icon Library
+* Advanced Search Engine
+* Figma Plugin
+* NPM Package
+* VS Code Extension
+* CDN Delivery Network
+* Developer APIs
+* Design Resources
+
+Website:
+https://iconmarvel.com
+
+Through building IconMarvel, I've gained extensive experience in:
+
+* Large-scale data processing
+* Search systems
+* Product architecture
+* SaaS development
+* CDN optimization
+* SVG optimization
+* Performance engineering
+* Product growth
+
+---
+
+## 💼 Professional Experience
+
+Over the years, I have worked on:
+
+### Enterprise Business Applications
+
+* Workflow Automation
+* Multi-Role Approval Systems
+* Internal Management Platforms
+* Process Automation Solutions
+
+### Financial & Accounting Systems
+
+* Financial Statements
+* Ledger Management
+* Opening & Closing Balances
+* Audit Workflows
+* Reporting Systems
+
+### CRM & Lead Management Systems
+
+* Lead Scoring Engines
+* User Activity Tracking
+* Customer Analytics
+* Engagement Systems
+
+### SaaS Products
+
+* Subscription Platforms
+* Multi-Tenant Architectures
+* User Management Systems
+* Payment Integrations
+
+### Real-Time Applications
+
+* Laravel Reverb
+* WebSockets
+* Event Broadcasting
+* Real-Time Notifications
+
+---
+
+## 🛠 Core Expertise
+
+### Backend Engineering
+
+* Laravel
+* PHP
+* REST APIs
+* API Integrations
+* Authentication & Authorization
+* Queues & Background Jobs
+* Event-Driven Systems
+* WebSockets
+* Laravel Reverb
+* Service-Oriented Architecture
+
+### Frontend Development
+
+* Vue.js
+* Nuxt.js
+* JavaScript
+* HTML5
+* CSS3
+* Responsive Design
+* Component-Based Architecture
+
+### Database Engineering
+
+* PostgreSQL
+* MySQL
+* Database Design
+* Query Optimization
+* Indexing Strategies
+* Performance Tuning
+* Data Modeling
+
+### DevOps & Infrastructure
+
+* Linux Servers
+* Ubuntu
+* VPS Deployment
+* Docker
+* Docker Compose
+* Nginx
+* SSL Configuration
+* Cloudflare
+* DNS Management
+* Process Management
+* Server Optimization
+* Monitoring & Logging
+
+### Software Architecture
+
+* SaaS Architecture
+* Multi-Tenant Systems
+* Modular Architecture
+* Repository Pattern
+* Service Layer Pattern
+* Event-Driven Architecture
+* Scalable System Design
+* Secure Application Design
+
+---
+
+## ⚡ What I Build
+
+✔ Enterprise Applications
+
+✔ SaaS Platforms
+
+✔ RESTful APIs
+
+✔ Admin Panels
+
+✔ Business Automation Systems
+
+✔ CRM Solutions
+
+✔ Financial Applications
+
+✔ Real-Time Applications
+
+✔ Developer Tools
+
+✔ Scalable Web Platforms
+
+---
+
+## 🔥 Current Focus
+
+* Laravel 12
+* Vue.js & Nuxt
+* SaaS Architecture
+* System Design
+* Docker Infrastructure
+* Search Systems
+* Product Engineering
+* Developer Experience
+* Performance Optimization
+* Scaling Web Applications
+
+---
+
+## 🤝 Open For Collaboration
+
+Interested in collaborating on:
+
+* Laravel Projects
+* SaaS Platforms
+* API Development
+* Vue.js Applications
+* Nuxt Projects
+* Open Source Software
+* Developer Tools
+* Product Development
+* System Architecture
+
+---
+
+## 📫 Connect With Me
+
+📧 Email:
+[ashabbar439@gmail.com](mailto:ashabbar439@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/shabbar-abbas-669689214
+
+🌐 Website:
+https://iconmarvel.com
+
+🐙 GitHub:
+https://github.com/shabbr
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shabbr\&show_icons=true\&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shabbr\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shabbr\&layout=compact\&theme=radical)
+
+---
+
+## 🎯 Engineering Philosophy
+
+Build systems that are:
+
+* Secure
+* Scalable
+* Reliable
+* Maintainable
+* Performance Focused
+
+Technology should solve real business problems, create value for users, and remain maintainable as products grow.
+
+---
+
+⭐ If you find my work interesting, feel free to connect, collaborate, or explore my repositories.
